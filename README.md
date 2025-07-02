@@ -1,6 +1,6 @@
 # CrowdTrack
-[![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2502.19958)
-[![](https://img.shields.io/badge/{dataset}-{Baidu%20Cloud}-{blue}.svg)]({https://pan.baidu.com/s/1iArSnByE5tEPwlHrKpnWFg?pwd=crtr})
+[![arXiv Paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2502.19958)
+[![](https://img.shields.io/badge/dataset-Baidu%20Cloud-blue.svg)](https://pan.baidu.com/s/1iArSnByE5tEPwlHrKpnWFg?pwd=crtr)
 
 ## Official repository of the dataset CrowdTrack in paper: CrowdTrack: A Benchmark for Difficult Multiple Pedestrian Tracking in Real Scenarios
 
